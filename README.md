@@ -1,4 +1,4 @@
-# Estudo-ao-longo-das-decadas-dobre-a-acesibilidade-de-estudandes-desfavorecidos-no-ENEM
+# Estudo-ao-longo-das-decadas-sobre-a-acesibilidade-de-estudandes-desfavorecidos-no-ENEM
 
 
 Um estudo onde foram analisadas as bases do Enem de 1999, 2009 e 2019 considerando apenas os estados do Alagos e Rio de Janeiro, 
